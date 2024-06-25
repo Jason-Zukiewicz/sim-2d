@@ -1,0 +1,6 @@
+.vscode/
+project/CMakeFiles
+project/Makefile
+project/app
+project/cmake_install.cmake
+project/CMakeCache.txt
